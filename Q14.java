@@ -1,6 +1,4 @@
 package vineet78;
-
-
 abstract class CardVal
 {
 	String s;
